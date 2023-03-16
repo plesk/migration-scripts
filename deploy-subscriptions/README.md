@@ -10,6 +10,6 @@ field2 - system user login
 field3 - system user password
 
 How to use:
-1. Prepare the .csv file according to example above.
-2. Save it as cred.csv in the same directory as the script.
+1. Edit the cred.csv file as per the template.
+2. Save it in the same directory as the script.
 3. Run the script, enter the IP address for the subscription and press Enter.

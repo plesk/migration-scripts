@@ -17,4 +17,4 @@ migration-scripts
 Each script is stored in a separate directory. Shell scripts should have .sh suffix in the file name. README.md files placed in respective directories contain information about usage of scripts.
 
 Contribution
-Fill free to submit pull requests. Please follow [best practices](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project).
+Feel free to submit pull requests. Please follow [best practices](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project).

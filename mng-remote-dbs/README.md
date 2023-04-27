@@ -1,9 +1,9 @@
-The script is designed to:
+# The script is designed to
 - dump databases from a remote MySQL server to a local dir(where the script being run from)
 - drop databases and users from a remote MySQL server.
 - restore database dumps from the directory where the script is located onto a remote MySQL server
 
-Usage: 
+# Usage 
 Make sure the 'passwd.txt' file with the remote MySQL username and password exists in the same directory with a script 
 with a single delimeter. For example:
 jdoe ; password123

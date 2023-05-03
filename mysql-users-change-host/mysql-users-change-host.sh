@@ -1,4 +1,5 @@
 #!/bin/bash
+### Copyright 1999-2023. Plesk International GmbH.
 
 # VARS
 export PATH=$PATH:/usr/bin/:/bin/:/sbin/:/usr/sbin
